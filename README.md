@@ -2,7 +2,7 @@
 
 ### Data Scientist | Technologists
 
-Salutations!  I am a Data Science student currently enrolled at Lambda School, with hopes to finish soon and recieve my Lambda Certification and start looking for my first job on this new arc in my professional journey.  
+Salutations!  I am a Data Science student currently enrolled at Lambda School, with hopes to finish soon and recieve my Lambda Endorsement and start looking for my first job on this new arc in my professional journey.  
 
 I come from a 20 year career in technology, in different niches and specialities rangingi from Radio Communications in the Marine Corps, to digital and cyber security technologies as a Technical Instructor for DoD and other gonvermnet contractors.
 
